@@ -1,0 +1,30 @@
+
+*
+{
+margin:0px !important;
+padding:0px !important;
+}
+.head1
+{
+  background-color:#921212e0 !important;
+  color:white;
+  height:190px;
+
+  padding:30px
+}
+h1{
+  
+    padding-left:20px ; 
+    font-family:segoe ui light;
+    font-weight:400;
+    padding-top: 15px ;
+
+}
+p{
+  padding:20px !important;
+  font-size:15px;
+  font-weight:normal;
+}
+span{
+  font-size:18px
+}
